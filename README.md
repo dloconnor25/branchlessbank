@@ -83,3 +83,24 @@ RESEARCH & BRAINSTORMING
 
 
 CREATIVE BRIEF
+Client Background
+
+- Branchless Bank is an online only banking service heavily focused on customers using mobile devices. The company and app is hopping on the “green” train and going paperless with no brick and mortar locations. Their vision is to achieve a seamless, simple, and always accessible app that has the capabilities to handle all banking needs anywhere in the world. Branchless wants the service to be efficient, quick, and “hassle free” banking that will make customers want to leave behind their classic banking company. In order to achieve customers to want to ditch their classic banking style we will have to overcome perceptions of lesser security, increased threat to identity theft, and the idea that customer support/access would be lesser.
+
+Project overview
+
+- This project is about simple, seamless, online banking needs. It should be clean, yet have all the options they customer might need without appearing visually overwhelming. There should be a design that supports immediate usability with little to know learning curve. The design will incorporate modern technological features like touch ID fingerprint recognition, photo capabilities, and easy social money sharing. Right now there are so many different banking, money transferring, and management apps but there is no app that can do it all. That is the goal.
+- What is the project all about? What is the design for and why is it needed? What opportunities will the project present?
+This will give you a general idea of what to work on and how to attack it. After all, understanding why the project is needed is just as important as finding out what the project is, because this would allow you to take the most fitting format depending on the situation.
+
+Target Audience
+     General Age Range: 25-35 yrs old
+
+-      Students
+    - Away from home, out of state or out of town
+    - still slightly dependent on parents, but have their own accounts
+    - study abroad
+- Young professionals
+    - sales, consultants, creatives, independently employed, athletes, etc…
+
+I chose this Target audience range assuming that customers outside of the 25-35 year range would be active users, however for marketing purposes I consider this to be the most involved audience due to their financial independence and flexible lifestyles. I project that the broader age range will be 20-45 due to young adults becoming more active banking users and the fact that adults are waiting longer to start families because they are more career driven, leading me to think they will be working/traveling until later ages before settling down for a more stationary lifestyle. Our audience is constantly on the move, traveling in-state, out of state, and internationally for business or education purposes. This age group, predominantly millennials, have a strong passion for travel and spending money on experiences rather than possessions, there for the flexibility and simplicity of travel capable features will be a huge draw.
